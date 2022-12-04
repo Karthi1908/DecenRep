@@ -11,7 +11,11 @@ DeGeneres is a decentralized reputation management application. The main aim of 
 Users can add social media posts to the Decenrep and the posts will be rated for facts, fake news, hate messages, sarcasm, bot activity, and political side by the members of Decenrep DAO. Once the rating is completed, it can be used to rate the Influencer who posted the SM message.
 
 ## Contracts Info:
-Smart contracts are modified versions of the Openzepplien/Governor Bravo contracts. The proposal id is set as the id of the Twitter post and hence the calculation of the proposal id is removed from the governor contracts. Execute will always provide the veracity status of the given proposal id.ERC20votes is used for the vote calculations. 
+Smart contracts are modified versions of the Openzepplien/Governor Bravo contracts. The proposal id is set as the id of the Twitter post and hence the calculation of the proposal id is removed from the governor contracts. Execute function will always provide the veracity status of the given proposal(tweet) id. ERC20votes is used for the vote calculations. 
+
+Checker.sol is a modified version  Governor.sol
+IChecker.sol is a modified version IGovernor.sol
+CheckerCountingSimple.sol is a modofied version of GovernorCountingSimple.sol
 
 Contract are as below.
 DAO contract: 0x8754255495B7b90333A1260f26eA1539c28A773FERC20votes: 0xE8BE868120c3387ceF9aA2a982145F6689f41679
