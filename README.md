@@ -4,8 +4,8 @@ Decentralized Reputation of Social Media posts and influencers
 ## Introduction
 With the recent Twitter acquisition and subsequent decision to remove the verified badges have led to identity chaos on Twitter. There have been incidents of impersonation and fake posts led to huge havoc on Twitter as well as financial markets. These incidents all emphasized the importance of decentralized reputation management of social media posts and influencers. That's where 'DecenRep" comes into the picture.
 
-## DECEN REP
-DeGeneres is a decentralized reputation management application. The main aim of the App is to 1. identify fake news, FUD, and other misinformation in social media posts. and 2. to provide the reputation score for the social media Influencers. 
+## DECENREP
+DecenRep is a decentralized reputation management application. The main aim of the App is to 1. identify fake news, FUD, and other misinformation in social media posts. and 2. to provide the reputation score for the social media Influencers. 
 
 ## How it works:
 Users can add social media posts to the Decenrep and the posts will be rated for facts, fake news, hate messages, sarcasm, bot activity, and political side by the members of Decenrep DAO. Once the rating is completed, it can be used to rate the Influencer who posted the SM message.
