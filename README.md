@@ -18,9 +18,11 @@ IChecker.sol is a modified version IGovernor.sol
 CheckerCountingSimple.sol is a modofied version of GovernorCountingSimple.sol
 
 Contract are as below.
+
 DAO contract: 0x8754255495B7b90333A1260f26eA1539c28A773F
 
 ERC20votes: 0xE8BE868120c3387ceF9aA2a982145F6689f41679
+
 Test Proposal (Tweet id ):
 1598339185441660929
 1598655155141894144
